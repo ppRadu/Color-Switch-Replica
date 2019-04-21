@@ -62,8 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Player.cs" />
-    <Compile Include="Assets\Rotation.cs" />
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Rotation.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Workspace/GitHub/Color-Switch-Replica/Color Switch Replica/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

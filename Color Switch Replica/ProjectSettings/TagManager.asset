@@ -8,6 +8,8 @@ TagManager:
   - Yellow
   - Pink
   - Purple
+  - ColorSwitcher
+  - Scored
   layers:
   - Default
   - TransparentFX
